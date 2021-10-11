@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background:chocolate;
+    margin-top: 200px;
+    font-size: larger;
+}
+button,input{
+    border-radius: 20px;
+}
